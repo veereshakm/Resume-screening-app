@@ -145,6 +145,6 @@ MIT License. See the LICENSE file for details.
 
 ## Contact
 
-Author: Your Name
+Author: Veeresha Kadlibala Mathada
 GitHub: [veereshakm](https://github.com/veereshakm)
 Email: [kmveeresh283@gmail.com](mailto:kmveeresh283@gmail.com)
