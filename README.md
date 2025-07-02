@@ -4,13 +4,13 @@ This repository contains a machine learning project focused on automating the re
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 * [Why Resume Screening?](#why-resume-screening)
 * [Introduction](#introduction)
-* [Modules & Libraries](#modules--libraries)
+* [Modules and Libraries](#modules-and-libraries)
 * [Functionality](#functionality)
-* [Tools & Technologies](#tools--technologies)
+* [Tools and Technologies](#tools-and-technologies)
 * [Innovations](#innovations)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -23,7 +23,7 @@ This repository contains a machine learning project focused on automating the re
 
 ---
 
-## 🔍 Why Resume Screening?
+## Why Resume Screening?
 
 * Companies receive thousands of resumes for each job role.
 * Manual screening is time-consuming and error-prone.
@@ -32,13 +32,13 @@ This repository contains a machine learning project focused on automating the re
 
 ---
 
-## 📘 Introduction
+## Introduction
 
 Resume screening is the process of evaluating candidate qualifications based on resume data. This project applies machine learning and NLP to match resume content with suitable job roles efficiently.
 
 ---
 
-## ⚙️ Modules & Libraries
+## Modules and Libraries
 
 ### Modules
 
@@ -58,7 +58,7 @@ Resume screening is the process of evaluating candidate qualifications based on 
 
 ---
 
-## 🚀 Functionality
+## Functionality
 
 * Upload resumes (PDF or TXT)
 * Extract resume content
@@ -67,7 +67,7 @@ Resume screening is the process of evaluating candidate qualifications based on 
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools and Technologies
 
 * Python 3.x
 * Streamlit (for web UI)
@@ -78,7 +78,7 @@ Resume screening is the process of evaluating candidate qualifications based on 
 
 ---
 
-## 🧠 Innovations in Resume Screening
+## Innovations
 
 * Replaces manual resume sorting with AI-based classification
 * Real-time prediction via Streamlit interface
@@ -86,7 +86,7 @@ Resume screening is the process of evaluating candidate qualifications based on 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/veereshakm/resume-screening-app.git
@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Usage
+## Usage
 
 1. Launch the Streamlit app:
 
@@ -109,14 +109,14 @@ streamlit run app.py
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * Dataset includes labeled resumes in text format
 * Job categories: Data Science, HR, Java Developer, Sales, etc.
 
 ---
 
-## 🧪 Model
+## Model
 
 * BERT embeddings via `sentence-transformers`
 * Trained using Logistic Regression / SVM / Naive Bayes
@@ -124,27 +124,27 @@ streamlit run app.py
 
 ---
 
-## 📈 Results
+## Results
 
 * Accuracy: \~85% on test set
 * Evaluation metrics: Precision, Recall, F1-Score, Confusion Matrix
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request.
 
 ---
 
-## 📄 License
+## License
 
 MIT License. See the LICENSE file for details.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Author: Your Name
-GitHub: [veereshakm](https://github.com/your-username)
-Email: [kmveeresh283@gmail.com](mailto:your.email@example.com)
+GitHub: [veereshakm](https://github.com/veereshakm)
+Email: [kmveeresh283@gmail.com](mailto:kmveeresh283@gmail.com)
